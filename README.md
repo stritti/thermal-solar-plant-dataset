@@ -5,7 +5,7 @@ Realtime thermal solar plant dataset for machine learning.
 I would like to provide reale time dataset of a thermal solar plant logged in 
 the time of 2016-12-28 till 2018-10-10.
 
-> Feel free to us data for research and development and let me know what you hafe learned and developed.
+> Feel free to use data for research and development and let me know what you have learned and developed.
 
 
 
