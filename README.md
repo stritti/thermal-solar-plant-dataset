@@ -54,3 +54,9 @@ Content of CSV files is structured in following columns:
 | Version                        | version                          |
 | Systemzeit                     | system time                      |
 | Systemdatum                    | system date                      |
+
+# Further Datasets
+
+* (25 Datasets for Deep Learning in IoT)[https://hub.packtpub.com/25-datasets-deep-learning-iot]
+* (MACHINE LEARNING DATASETS)[https://www.kaggle.com/pitasr/datasets]
+* (Great IoT, Sensor and other Data Sets Repositories)[https://www.datasciencecentral.com/profiles/blogs/great-sensor-datasets-to-prepare-your-next-career-move-in-iot-int]
