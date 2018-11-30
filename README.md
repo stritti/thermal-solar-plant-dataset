@@ -55,9 +55,16 @@ Content of CSV files is structured in following columns:
 | Systemzeit                     | system time                      |
 | Systemdatum                    | system date                      |
 
+# License
+
+[LICENSE](LICENSE)
+
+---
+
 # Further Datasets
 
 * Awesome Public Datasets: [https://github.com/awesomedata/apd-core], [https://github.com/awesomedata/awesome-public-datasets] 
 * 25 Datasets for Deep Learning in IoT: [https://hub.packtpub.com/25-datasets-deep-learning-iot]
 * MACHINE LEARNING DATASETS: [https://www.kaggle.com/pitasr/datasets]
 * Great IoT, Sensor and other Data Sets Repositories: [https://www.datasciencecentral.com/profiles/blogs/great-sensor-datasets-to-prepare-your-next-career-move-in-iot-int]
+
